@@ -8,7 +8,7 @@ COMS2014 - Computer Networks Project 1
 Using Java or Python, program an instant messaging client. You may use any protocol of your choice,
 or create your own.
 > Mark Criteria\
-> 40% - Text-based client capable of sending a message\
+> 40%&emsp; - Text-based client capable of sending a message\
 > 50% - Text-based client capable of sending and receiving messages\
 > 60% - Text-based client capable of sending and receiving messages over a single connection to a target IP\
 > 70% - GUI client capable of sending and receiving messages, and alerting you when a target IP is online\
